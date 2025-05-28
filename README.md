@@ -59,11 +59,11 @@ administrator.
 
 • **Interpreters:** Java and Java Database Connectivity(JDBC).
 
-• **Software:** Netbeans, Xampp.
+• **Software:** Ecllipse, Tomcat.
 
 • **Database:** MySQL.
 
-• **Hardware:** 10GB storage, 4gb ram 4.1.2
+• **Hardware:** 10GB storage, 4gb ram
 
 ## Conclusion:
 
